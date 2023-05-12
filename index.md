@@ -1,123 +1,19 @@
----
-layout: default
----
+# Implication Design Workshop
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+A method for collectively speculating about the ethical implications of emerging technologies and navigating value tensions. 
 
-[Link to another page](./another-page.html).
+This repository contains facilitation materials that accompany our publication "A Workshop-Based Method for Navigating Value Tensions in Collectively Speculated Worlds."
 
-There should be whitespace between paragraphs.
+## Moderator guides and slides
+1. [Facilitation Guide](https://docs.google.com/document/d/10t3ygBTE1gv6bJbCFofNovnjgjqgtvxiAictwnjRdSk/edit?usp=sharing)
+1. [Facilation Slides](https://docs.google.com/presentation/d/1iClORmNKflZkjEYXEplaosHq5cUsIpPXn2Vh52Z_ems/edit?usp=sharing)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Templates for workshop materials
+1. [Action Deck Template (Letter size)](https://drive.google.com/drive/u/0/folders/1kLx_D2NJKSisd2VneW3aLwdS-JWwVdyF)
+1. [Evaluation Rubric](https://docs.google.com/document/d/1pDKC8HlxQIxypAR2wLh4Mdw50YhXymWqivXapq5l2cw/edit)
+1. [System Information Sheet](https://docs.google.com/document/d/1npLCqvPloQj91HYXOXb391Yj_Ss9PYrM726m84SZP4w/edit?usp=sharing) 
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Recruitment
+1. [Screening Survey](https://docs.google.com/document/d/10UCB5z2PvSTtdVyc6xeMtwjXASwHUY1BJ2sWRX5R1FE/edit#heading=h.ggpa7hjyvjow) 
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
