@@ -1,6 +1,6 @@
 This repository contains facilitation materials that accompany our publication:
 
-> Nava Haghighi*, Matthew Jörke*, Yousif Mohsen, Andrea Cuadra, James A. Landay. [A Workshop-Based Method for Navigating Value Tensions in Collectively Speculated Worlds](https://dl.acm.org/doi/10.1145/3563657.3595992), *DIS '23*. 
+> Nava Haghighi\*, Matthew Jörke\*, Yousif Mohsen, Andrea Cuadra, James A. Landay. [A Workshop-Based Method for Navigating Value Tensions in Collectively Speculated Worlds](https://dl.acm.org/doi/10.1145/3563657.3595992), *DIS '23*. 
 
 
 ## Moderator guides and slides
