@@ -17,4 +17,4 @@ This repository contains facilitation materials that accompany our publication:
 
 
 ### Contact
-If you have any questions about the workshop or any of the facilitation materials, please contact Nava Haghigh (navaha@stanford.edu) and Matthew Joerke (joerke@stanford.edu).
+If you have any questions about the workshop or any of the facilitation materials, please contact Nava Haghighi (navaha@stanford.edu) and Matthew Jörke (joerke@stanford.edu).
