@@ -2,7 +2,7 @@ This repository contains facilitation materials that accompany workshops from tw
 
 > Nava Haghighi\*, Matthew Jörke\*, Yousif Mohsen, Andrea Cuadra, James A. Landay. [A Workshop-Based Method for Navigating Value Tensions in Collectively Speculated Worlds](https://dl.acm.org/doi/10.1145/3563657.3595992), *DIS '23*.
 
-> Jianna So, Samantha Estrada, Matthew Jörke, Eva Bianchi, Maria Wang, Nava Haghighi, Kristen L. Fessele, James A. Landay, Andrea Cuadra. [“They Make Us Old Before We’re Old:” Designing Ethical Health Technology with and for Older Adults.]() *CSCW '24*.
+> Jianna So, Samantha Estrada, Matthew Jörke, Eva Bianchi, Maria Wang, Nava Haghighi, Kristen L. Fessele, James A. Landay, Andrea Cuadra. [“They Make Us Old Before We’re Old:” Designing Ethical Health Technology with and for Older Adults.](ethical-health-technology-older-adults-cscw2024.pdf) *CSCW '24*.
 
 ---
 
